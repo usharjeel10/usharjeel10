@@ -3,9 +3,9 @@
 <img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usharjeel10&label=Profile%20views&color=0e75b6&style=flat" alt="usharjeel10" /> </p>
 
-- 🔭 I’m currently working on [Eredan Arena (seems like)](https://github.com/GameVerseStudios/CardGame)
+- 🔭 I’m currently working on [Eredan Arena](https://github.com/GameVerseStudios/CardGame)
 
-- 🌱 I’m currently learning **Multiplayer system**
+- 🌱 I’m currently learning **Multiplayer system in UE5**
 
 - 📫 How to reach me **usamasharjeel6@gmail.com**
 
