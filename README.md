@@ -1,10 +1,10 @@
 ![logo](https://github.com/usharjeel10/usharjeel10/blob/main/1054067.png)
 <h1 align="center">Hi 👋, I'm M.Sharjeel</h1>
-<h3 align="center">A passionate UE Game developer from Pakistan</h3>
+<h3 align="center">A passionate UE 4-5 Game developer from Pakistan</h3>
 <img align="right" alt="coding"width="400"src="https://media.giphy.com/media/mBLMjuqK2zJWDLetc1/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usharjeel10&label=Profile%20views&color=0e75b6&style=flat" alt="usharjeel10" /> </p>
 
-- 🔭 I’m currently working on [Eredan Arena](https://github.com/GameVerseStudios/CardGame)
+- 🔭 I’m currently working on [*Teacher Simulation*](https://github.com/GameVerseStudios/CardGame)
 
 - 🌱 I’m currently learning **Multiplayer system in UE5**
 
