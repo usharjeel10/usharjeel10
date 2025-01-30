@@ -4,7 +4,7 @@
 <img align="right" alt="coding"width="400"src="https://media.giphy.com/media/mBLMjuqK2zJWDLetc1/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usharjeel10&label=Profile%20views&color=0e75b6&style=flat" alt="usharjeel10" /> </p>
 
-- 🔭 I’m currently working on **Teacher Simulation**(https://github.com/GameVerseStudios/CardGame)
+- 🔭 I’m currently working on **Teacher Simulation**(https://github.com/usharjeel10/TeacherSimuation)
 
 - 🌱 I’m currently learning **Multiplayer system in UE5**
 
